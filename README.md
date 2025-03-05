@@ -1,5 +1,5 @@
 # Methionine-price
-ws size = 90, 
+ws size = 30, test size = 90
 RMSE=0.2, 
 model error is about 8.16% (RMSE relative to price range)
 model error is about 9.0% (RMSE relative to price mean)
